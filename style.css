@@ -1,4 +1,13 @@
 * {
   background-color: coral;
 }
+
+h1 {
+  font-size: 150px;
+}
+
+button {
+  background-color: crimson;
+  font-size: 100px;
+}
 /*# sourceMappingURL=style.css.map */
